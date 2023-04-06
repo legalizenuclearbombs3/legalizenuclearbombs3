@@ -3,10 +3,9 @@
   text-align: center;
 }
 
-<div class="container">
-   <img src="banner.png" alt="banner" width=100%>
-   <div class="absolute centered title">Legalize Nuclear Bombs</div>
- </div>  
+<div align="center">
+    <img src="banner.svg" width=100% height="400" alt="banner">
+</div>
 
 Follow us on Youtube, Tiktok, and Twitter
 
