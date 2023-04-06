@@ -1,5 +1,9 @@
 <img src="banner.png" alt="banner" width=100%>
 
+<div align="center">
+    <img src="text1.svg" width=100% height="400" alt="text">
+</div>
+
 Follow us on Youtube, Tiktok, and Twitter
 
 We want to Legalize Nuclear Bombs
