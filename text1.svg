@@ -4,13 +4,13 @@
             <style>
             h1 {
                 color: red;
-                animation: mymove 6s infinite;
+                animation: mymove 14s infinite;
             }
 
             @keyframes mymove {
-                0%   {background-color: black;}
-                50%  {background-color: yellow;}
-                100% {background-color: black;}
+                0%   {background-color: blue;}
+                50%  {background-color: purple;}
+                100% {background-color: blue;}
             }
             </style>
             <h1>Legalize Nuclear Bombs</h1>
