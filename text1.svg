@@ -5,6 +5,7 @@
             h1 {
                 color: white;
                 animation: mymove 20s infinite;
+                text-align: center;
             }
 
             @keyframes mymove {
