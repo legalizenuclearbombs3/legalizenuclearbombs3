@@ -1,8 +1,3 @@
-.container {
-  position: relative;
-  text-align: center;
-}
-
 <div align="center">
     <img src="banner.svg" width=100% height="400" alt="banner">
 </div>
