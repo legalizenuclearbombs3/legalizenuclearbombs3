@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="banner.svg" width=100% height="400" alt="banner">
-</div>
+<img src="banner.png" alt="banner" width=100%>
 
 Follow us on Youtube, Tiktok, and Twitter
 
