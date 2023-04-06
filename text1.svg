@@ -8,9 +8,9 @@
             }
 
             @keyframes mymove {
-                0%   {background-color: red;}
+                0%   {background-color: black;}
                 50%  {background-color: yellow;}
-                100% {background-color: red;}
+                100% {background-color: black;}
             }
             </style>
             <h1>Legalize Nuclear Bombs</h1>
